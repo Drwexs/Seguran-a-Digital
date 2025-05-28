@@ -5,7 +5,7 @@
     --cor-de-fundo: #19023d;
     --fundo-senha: #1e004d;
     --fundo-texto: #490c81;
-    --borda: #7f44cc;
+    --borda: #f0c87f;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -143,7 +143,7 @@ label{
 
 .forte{
     width: 100%;
-    background-color: #8104f7;
+    background-color: #f3b839;
 }
 
 .parametro-senha-textos{
